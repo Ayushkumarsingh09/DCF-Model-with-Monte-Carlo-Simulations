@@ -1,0 +1,22 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+env/
+venv/
+
+# Data and output
+data/*.csv
+output/
+
+# Logs
+logs/*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+
